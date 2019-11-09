@@ -4,4 +4,4 @@ Updating README with new information
 
 "Feature1"  
 "Feature2"  
-"Feature 2 changes"  :
+"Feature 2 changes" 
