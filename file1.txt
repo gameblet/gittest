@@ -1,2 +1,6 @@
 Addinf some code here
+<<<<<<< HEAD
 Adding yet more code
+=======
+"Fix1"  
+>>>>>>> 73ac674... Added fix1
