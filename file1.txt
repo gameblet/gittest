@@ -1,6 +1,5 @@
-Addinf some code here
-<<<<<<< HEAD
+Adding some code here
+
 Adding yet more code
-=======
-"Fix1"  
->>>>>>> 73ac674... Added fix1
+
+"Fix1"1
